@@ -1,0 +1,14 @@
+D:\Pareta_Tatto_CZ\Nazar_Tatto_CZ\bin\Debug\net8.0\Nazar_Tatto_CZ.exe
+D:\Pareta_Tatto_CZ\Nazar_Tatto_CZ\bin\Debug\net8.0\Nazar_Tatto_CZ.deps.json
+D:\Pareta_Tatto_CZ\Nazar_Tatto_CZ\bin\Debug\net8.0\Nazar_Tatto_CZ.runtimeconfig.json
+D:\Pareta_Tatto_CZ\Nazar_Tatto_CZ\bin\Debug\net8.0\Nazar_Tatto_CZ.dll
+D:\Pareta_Tatto_CZ\Nazar_Tatto_CZ\bin\Debug\net8.0\Nazar_Tatto_CZ.pdb
+D:\Pareta_Tatto_CZ\Nazar_Tatto_CZ\obj\Debug\net8.0\Nazar_Tatto_CZ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pareta_Tatto_CZ\Nazar_Tatto_CZ\obj\Debug\net8.0\Nazar_Tatto_CZ.AssemblyInfoInputs.cache
+D:\Pareta_Tatto_CZ\Nazar_Tatto_CZ\obj\Debug\net8.0\Nazar_Tatto_CZ.AssemblyInfo.cs
+D:\Pareta_Tatto_CZ\Nazar_Tatto_CZ\obj\Debug\net8.0\Nazar_Tatto_CZ.csproj.CoreCompileInputs.cache
+D:\Pareta_Tatto_CZ\Nazar_Tatto_CZ\obj\Debug\net8.0\Nazar_Tatto_CZ.dll
+D:\Pareta_Tatto_CZ\Nazar_Tatto_CZ\obj\Debug\net8.0\refint\Nazar_Tatto_CZ.dll
+D:\Pareta_Tatto_CZ\Nazar_Tatto_CZ\obj\Debug\net8.0\Nazar_Tatto_CZ.pdb
+D:\Pareta_Tatto_CZ\Nazar_Tatto_CZ\obj\Debug\net8.0\Nazar_Tatto_CZ.genruntimeconfig.cache
+D:\Pareta_Tatto_CZ\Nazar_Tatto_CZ\obj\Debug\net8.0\ref\Nazar_Tatto_CZ.dll

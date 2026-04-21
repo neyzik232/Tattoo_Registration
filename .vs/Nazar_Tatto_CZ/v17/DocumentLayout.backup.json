@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Pareta_Tatto_CZ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66B686E6-0D93-4A92-A077-475CB49C2AFA}|Nazar_Tatto_CZ\\Nazar_Tatto_CZ.csproj|d:\\pareta_tatto_cz\\nazar_tatto_cz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B686E6-0D93-4A92-A077-475CB49C2AFA}|Nazar_Tatto_CZ\\Nazar_Tatto_CZ.csproj|solutionrelative:nazar_tatto_cz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Pareta_Tatto_CZ\\Nazar_Tatto_CZ\\Program.cs",
+              "RelativeDocumentMoniker": "Nazar_Tatto_CZ\\Program.cs",
+              "ToolTip": "D:\\Pareta_Tatto_CZ\\Nazar_Tatto_CZ\\Program.cs",
+              "RelativeToolTip": "Nazar_Tatto_CZ\\Program.cs",
+              "ViewState": "AgIAAIECAAAAAAAAAAAuwJkCAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T15:20:39.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
